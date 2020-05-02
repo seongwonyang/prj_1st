@@ -1,1 +1,1 @@
-Djanog Project 1 | 북마크 서비스
+Django Project 1 | 북마크 서비스
